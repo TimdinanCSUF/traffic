@@ -1,12 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import words from './words.svg';
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <img src={words} className="App-title" alt="words" />
+        <h1>traffic control</h1>
         <p>
           automate your social media
         </p>
