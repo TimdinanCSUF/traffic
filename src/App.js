@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <img src={words} className="App-title" alt="words" />
         <p>
-          let us automate your social media
+          automate your social media
         </p>
         <a
           className="App-link"
@@ -17,7 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           sign up
-        
+
         </a>
       </header>
     </div>
